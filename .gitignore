@@ -1,4 +1,11 @@
-/data/
-/sub_files/
-/lightning_logs/
-/.ipynb_checkpoints/
+/src/data/
+/src/sub_files/
+/src/lightning_logs/
+/src/.ipynb_checkpoints/
+/experiment/data/
+/experiment/sub_files/
+/experiment/lightning_logs/
+/experiment/.ipynb_checkpoints/
+*.csv
+*.ckpt
+*.yaml
