@@ -9,3 +9,5 @@
 *.csv
 *.ckpt
 *.yaml
+/.idea/
+.DS_Store
